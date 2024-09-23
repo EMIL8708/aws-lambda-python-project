@@ -22,7 +22,7 @@ TAGS = {
         },
         {
             'Key': 'python',
-            'Value': 'class'
+            'Value': 'project'
         },
     ]
 }
