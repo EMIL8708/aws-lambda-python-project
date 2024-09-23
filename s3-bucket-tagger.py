@@ -8,7 +8,7 @@ def lambda_handler(event, context):
     s3 = boto3.client("s3")
 
     # Define variable for a region
-    REGION = "es-east-1"
+    REGION = "us-east-1"
 
     # Create empty list
     BUCKET_LIST = []
