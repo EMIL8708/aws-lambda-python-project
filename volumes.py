@@ -2,7 +2,7 @@ import json
 import boto3 
 
 def lambda_handler(event, context):
-    REGION = 'es-east-1'
+    REGION = 'us-east-1'
 
     ec2 = boto3.client('ec2', region_name=REGION)
 
