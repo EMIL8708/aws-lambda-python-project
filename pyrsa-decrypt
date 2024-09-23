@@ -1,4 +1,4 @@
-#!/mnt/EMIL8708/aws-lambda-python-project/
+# !/mnt/EMIL8708/aws-lambda-python-project/
 
 # -*- coding: utf-8 -*-
 import re
